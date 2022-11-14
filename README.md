@@ -14,6 +14,6 @@ present or future. When the time is clicked on you can enter an event. There's a
 
 # Links
 
-Deployed Link: https://nnavg.github.io/workday-scheduler/
+Deployed Link: https://nnavg.github.io/workday-planner/
 
-Repository Link: https://github.com/nnavg/workday-scheduler
+Repository Link: https://github.com/nnavg/workday-planner
